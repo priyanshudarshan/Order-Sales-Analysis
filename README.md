@@ -1,6 +1,6 @@
 # 📊 Order Data Analysis Using SQL and Python
 
-This project focuses on analyzing order data to derive key business insights using a combination of Python and SQL. The data is sourced directly from Kaggle using their API, processed for analysis, and then queried in a SQL server to answer specific business questions.
+This project focuses on analyzing order data to derive key business insights using a combination of Python and SQL. The data is sourced directly from Kaggle using their API, processed for analysis and then queried in a SQL server to answer specific business questions.
 
 ## 🗂️ Project Overview
 
