@@ -4,6 +4,6 @@ This project focuses on analyzing order data to derive key business insights usi
 
 # 🗂️ Project Overview
 The primary objectives of this project were to:
-  -Import and process order data from Kaggle.
-  -Connect the processed data to a SQL server for in-depth analysis.
-  -Use SQL queries to derive insights that can help in making informed business decisions.
+  * Import and process order data from Kaggle.
+  * Connect the processed data to a SQL server for in-depth analysis.
+  * Use SQL queries to derive insights that can help in making informed business decisions.
